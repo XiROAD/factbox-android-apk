@@ -18,8 +18,11 @@ Factox 안드로이드 설치파일입니다.
 
 
 ## 뭔가 이상하다...싶을 때 할 수 있는 조치
-1. [모바일앱] 에서 `단말기 환경설정` > Factbox 재부팅 :`restart` 클릭 
-2. [모바일앱] 강제 종료 후 재시작
-3. [모바일앱] 데이터 삭제
-4. [단말기기] 전원 재공급 (주행 OFF 상태에서)
-5. [모바일앱] 에서  `단말기 환경설정>관리자메뉴` 에서 SD카드 `리셋하기` 클릭 
+
+
+| 재부팅 | 강제종료 | 데이터삭제 | 전원재공급 | SD리셋 |
+|--|--|--|--|--|
+|![image](https://github.com/XiRoad/factbox-android-apk/assets/61939286/73f8059a-15a9-47b3-8d1f-1786315cc715)|![image](https://github.com/XiRoad/factbox-android-apk/assets/61939286/ad493f86-175c-4b7e-940b-1038c2197270)| ![image](https://github.com/XiRoad/factbox-android-apk/assets/61939286/5640e1fc-438d-43b9-8805-1a3529740db5)|스위치 OFF/ON| ![image](https://github.com/XiRoad/factbox-android-apk/assets/61939286/5aa88e67-5d7f-4934-9ece-39173f9b6476)|
+| [모바일앱] 에서 `단말기 환경설정` > Factbox 재부팅 :`restart` 클릭 <br>  (단말기 LED 4개가 모두 ON 되었다 OFF되면 정상) |[모바일앱] 강제 종료 후 재시작 |  [모바일앱] 데이터 삭제 | [단말기기] 전원 재공급 (주행 OFF 상태에서) |  [모바일앱] 에서  `단말기 환경설정>관리자메뉴` 에서 SD카드 `리셋하기` 클릭 |
+
+
