@@ -11,12 +11,6 @@ Factox 안드로이드 설치파일입니다.
 <br>  
 
 
-## User 앱 내부 테스트 설치 
-1. 안드로이드 디바이스에서 [내부 테스트 링크](https://play.google.com/apps/internaltest/4701013598319465615) 접속 (gmail 추가된 유저만 가능)
-2. 설치 링크로 이동
-  ![구글 설치 링크 사용법](https://github.com/XiRoad/factbox-android-apk/assets/61939286/e95d46db-d31a-4933-951f-29004a082807)
-
-
 ## 뭔가 이상하다...싶을 때 할 수 있는 조치
 
 
