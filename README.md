@@ -1,6 +1,9 @@
 # factbox-android-apk
 Factox 안드로이드 설치파일입니다. 
 
+
+# [>> 최신 apk 다운로드 바로가기(250116)](https://github.com/XiROAD/factbox-android-apk/releases/tag/v1.2.0)
+
 2025년 1월 16일 수정사항
 ## DtgFile 폴더 경로
 ` 내장저장소/Documents/DtgFile ` 에서 확인하실 수 있습니다.
